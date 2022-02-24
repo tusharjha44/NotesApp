@@ -3,7 +3,23 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/TUSHAR PERSONAL/Kotlin/Projects/NotesApp/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/TUSHAR PERSONAL/Kotlin/Projects/NotesApp/app/src/main/res/drawable/border.xml" value="0.176" />
+        <entry key="..\:/TUSHAR PERSONAL/Kotlin/Projects/NotesApp/app/src/main/res/drawable/btn_filter_shape.xml" value="0.1655" />
+        <entry key="..\:/TUSHAR PERSONAL/Kotlin/Projects/NotesApp/app/src/main/res/drawable/btn_filter_shape2.xml" value="0.1" />
+        <entry key="..\:/TUSHAR PERSONAL/Kotlin/Projects/NotesApp/app/src/main/res/drawable/dialog_delete.xml" value="0.1" />
+        <entry key="..\:/TUSHAR PERSONAL/Kotlin/Projects/NotesApp/app/src/main/res/drawable/green_dot.xml" value="0.176" />
+        <entry key="..\:/TUSHAR PERSONAL/Kotlin/Projects/NotesApp/app/src/main/res/drawable/no_btn.xml" value="0.176" />
+        <entry key="..\:/TUSHAR PERSONAL/Kotlin/Projects/NotesApp/app/src/main/res/drawable/red_dot.xml" value="0.176" />
+        <entry key="..\:/TUSHAR PERSONAL/Kotlin/Projects/NotesApp/app/src/main/res/drawable/yellow_dot.xml" value="0.176" />
+        <entry key="..\:/TUSHAR PERSONAL/Kotlin/Projects/NotesApp/app/src/main/res/drawable/yes_btn.xml" value="0.176" />
+        <entry key="..\:/TUSHAR PERSONAL/Kotlin/Projects/NotesApp/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/TUSHAR PERSONAL/Kotlin/Projects/NotesApp/app/src/main/res/layout/dialog_delete.xml" value="0.2164855072463768" />
+        <entry key="..\:/TUSHAR PERSONAL/Kotlin/Projects/NotesApp/app/src/main/res/layout/fragment_add_notes.xml" value="0.21666666666666667" />
+        <entry key="..\:/TUSHAR PERSONAL/Kotlin/Projects/NotesApp/app/src/main/res/layout/fragment_edit_notes.xml" value="0.2164855072463768" />
+        <entry key="..\:/TUSHAR PERSONAL/Kotlin/Projects/NotesApp/app/src/main/res/layout/fragment_home.xml" value="0.3422330097087379" />
+        <entry key="..\:/TUSHAR PERSONAL/Kotlin/Projects/NotesApp/app/src/main/res/layout/item_notes.xml" value="0.2164855072463768" />
+        <entry key="..\:/TUSHAR PERSONAL/Kotlin/Projects/NotesApp/app/src/main/res/menu/delete_menu.xml" value="0.21666666666666667" />
+        <entry key="..\:/TUSHAR PERSONAL/Kotlin/Projects/NotesApp/app/src/main/res/menu/serach_menu.xml" value="0.21666666666666667" />
       </map>
     </option>
   </component>
